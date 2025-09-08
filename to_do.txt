@@ -1,8 +1,9 @@
-- app.py is for testing, transform to a functional app
+- app.py is for testing, transform to a functional app >> almost done, needs optimization
 - make period calculate for the entire year, currently it is 1 month ahead
 - add the option to edit period dates
 - add the option to delete/move events
 - wrap in API
 - build a frontend
+- fix the add event iption, cannot add long events of non period type
 
 
