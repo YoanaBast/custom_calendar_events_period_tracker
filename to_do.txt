@@ -4,6 +4,6 @@
 - add the option to delete/move events
 - wrap in API
 - build a frontend
-- fix the add event iption, cannot add long events of non-period type, becasue the date forming is in the track period functuon, needs to be taken out and made global
+- fix the add event iption, cannot add long events of non-period type, becasue the date forming is in the track period functuon, needs to be taken out and made global.
 
 
