@@ -4,6 +4,6 @@
 - add the option to delete/move events
 - wrap in API
 - build a frontend
-- fix the add event iption, cannot add long events of non period type
+- fix the add event iption, cannot add long events of non-period type
 
 
